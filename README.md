@@ -16,6 +16,7 @@ sensors to improve evapotranspiration (ET) models and irrigation decisions over 
 
 **M.S., [Agronomy]** — [Kansas State University]
 *[2024 – 2025]*
+- Key working areas: remote sensing-based ET, energy balance modeling, irrigation water management and yield predictions
 
 **B.S., [Agriculture]** — [Visva-Bharati University]
 *[2019 – 2023]*
